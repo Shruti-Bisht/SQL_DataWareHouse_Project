@@ -37,6 +37,6 @@ This project involves:
 
 # 🌟 About Me
 Hi, I'm Shruti.
-I'm learning Data Engineering, SQL, Oracle, and Cloud technologies.
+I'm learning Data Engineering, SQL, Oracle, and Cloud technologies.<br>
 [LinkedIn](https://www.linkedin.com/in/shruti-bisht-a8a04a217/)
 
