@@ -33,4 +33,10 @@ This project involves:
 [DrawIO](https://www.drawio.com/) : Design data architecture, models, flows, and diagrams. <br>
 [Notion](https://github.com/DataWithBaraa/sql-data-warehouse-project/blob/main/datasets) : Get the Project Template from Notion. <br>
 
+---
+
+# 🌟 About Me
+Hi, I'm Shruti.
+I'm learning Data Engineering, SQL, Oracle, and Cloud technologies.
+https://linkedin.com/in/shruti-bisht
 
