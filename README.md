@@ -29,8 +29,8 @@ This project involves:
 
 # 🛠️ Important Links & Tools:
 [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) : Lightweight server for hosting your SQL database.<br>
-[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16) : GUI for managing and interacting with databases.<br>
-[DrawIO](https://www.drawio.com/) : Design data architecture, models, flows, and diagrams.<br>
-[Notion](https://github.com/DataWithBaraa/sql-data-warehouse-project/blob/main/datasets) : Get the Project Template from Notion .<br>
+[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16) : GUI for managing and interacting with databases. <br>
+[DrawIO](https://www.drawio.com/) : Design data architecture, models, flows, and diagrams. <br>
+[Notion](https://github.com/DataWithBaraa/sql-data-warehouse-project/blob/main/datasets) : Get the Project Template from Notion. <br>
 
 
