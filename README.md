@@ -5,3 +5,5 @@ This project demonstrates the end-to-end implementation of a modern data warehou
 The project is designed to showcase practical data engineering and analytics concepts, following industry-standard practices for data modeling, ETL/ELT pipelines, and reporting.
 
 # 🏗️ Data Architecture    
+The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
+<img width="1632" height="963" alt="image" src="https://github.com/user-attachments/assets/ea95934d-b378-48cd-99dc-d394a404168e" />
